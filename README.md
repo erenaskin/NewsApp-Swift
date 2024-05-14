@@ -1,5 +1,4 @@
 # NewsApp-Swift
-# News Feed Application
 
 This is a simple news feed application that fetches news articles based on user queries. The app uses the News API to retrieve news data.
 
